@@ -1,0 +1,26 @@
+Measurement2:
+	Initial position (geo)= [32.3887357744216,51.3049851119290,1.697715071948074e+03]%GPS Stationary (for Lat,lon):1:5595_mean reference altitude
+	Initial position (m)  = [0,0,1.697715071948074e+03]
+	Initial Euler(DR)(deg)= [1.704106382978690 , 0.869425531914910 , 3.274054893617114e+02]
+	Initial Euler    (deg)= [2.11322138021208	-0.163612541892060  , 327.4-360]%using gln
+					   [2.10618098772269	-0.163067700479027  ]%using gg
+	gg				 = 9.832450264296186
+
+Measurement3:
+	Initial position (geo)= [32.388763026680024,51.304996430426710,1.697233664202739e+03]%GPS Stationary (for Lat,lon):1:1500_mean reference altitude
+	Initial position (m)  = [0,0,1.697233664202739e+03]
+	Initial Euler(DR)(deg)= [-2.59	1.09, 323.5]
+	Initial Euler    (deg)= [ 	]%using gln
+					   [-2.216277225966615,0.759968017044752,320.84-360+bias]%using gg
+	gg				 = 9.832744656985648
+
+Measurement4:               
+	Initial position (geo)= [32.388756641154290,51.304988446507515,1.692903971024844e+03]%GPS Stationary (for Lat,lon):1:3100_mean reference altitude
+	Initial position (m)  = [0,0,1.692903971024844e+03]
+	Initial Euler(DR)(deg)= [1.9 0.62, 330.8]
+	Initial Euler    (deg)= [ 	]%using gln
+					   [3.11525334918441,0.508656708600234,327.7-360+bias]%using gg (heading: using SaaIran)
+	gg				 = 9.833120080513615
+
+
+initial bias gyro: [-8.0471e-006 6.1278e-005 -8.8975e-006]

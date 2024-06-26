@@ -1,0 +1,27 @@
+test_ submarine_ 20140822033509
+
+   Initial position (geo)= [27.144205155809352  56.214719934794310 0]
+
+   Initial position (m)  = [0 0 0]
+
+   Initial Euler    (rad)=[ -0.0038  0.0182 0.4601]  
+
+   Initial Euler     (deg)= [-0.4076  1.0089  26.361]
+
+
+test 22th
+Initial position (geo)= [27.1441989433265	56.2147163961437  0]
+Initial position (m)  = [0 0 0]
+Initial Euler     (deg)= [-0.315833120302973    1.006531094535563    26.3471595528458]       
+
+test 23th
+Initial position (geo)=[27.144198813439540  56.214728367624275  0]
+Initial position (m)  = [0 0 0]
+Initial Euler     (deg)= [-0.774539630617245  0.836065412805601    26.4350000000000]
+
+
+test 24th
+Initial position (geo)= [27.144199999999950  56.214749999999924  0]
+Initial position (m)  = [0 0 0]
+
+Initial Euler     (deg)= [-0.724308926303833    0.833453702149136    25.9685807953445]                    
