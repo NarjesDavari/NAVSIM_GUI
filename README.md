@@ -7,6 +7,6 @@ This MATLAB-based Graphical User Interface (GUI) is designed for sensor fusion t
 - Load or Simulate Data: Import measurements from real sensors or generate simulated trajectories. Simulated trajectories can be used to create corresponding sensor data.
 - Choose Data Fusion Methods: Select from a list of data fusion algorithms to process the sensor data.
 - Visualize Outputs: Display results such as absolute error and the estimated trajectory. The trajectory can be visualized in meters or degrees.
-- 
+  
 Instructions for Use
 To use this GUI, first add the directory to the MATLAB path. Then, simply run NAVSIM in the MATLAB command window.
